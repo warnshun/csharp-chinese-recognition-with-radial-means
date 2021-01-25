@@ -1,0 +1,10 @@
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\bin\Debug\Job1.exe.config
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\bin\Debug\Job1.exe
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\bin\Debug\Job1.pdb
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Chinese_recognition_with_radial_means.csprojAssemblyReference.cache
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Job1.Properties.Resources.resources
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Chinese_recognition_with_radial_means.csproj.GenerateResource.cache
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Chinese_recognition_with_radial_means.csproj.CoreCompileInputs.cache
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Job1.exe
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Job1.pdb
+Z:\codes\backup\象棋環型散狀辨識(job1)\Job1\Chinese_recognition_with_radial_means\obj\Debug\Chinese_recognition_with_radial_means.Form1.resources
